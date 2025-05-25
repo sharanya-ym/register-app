@@ -17,7 +17,10 @@
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter Password" name=
+
+
+"psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
@@ -33,6 +36,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning. Oh is it shubhi </h1>
+   <h1> Happy Learning. End of our project </h1>
    
 </form>
